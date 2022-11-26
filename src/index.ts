@@ -1,1 +1,2 @@
-console.log('Hello world!');
+import express, { Express, Request, Response } from 'express';
+import dotenv from 'dotenv';
